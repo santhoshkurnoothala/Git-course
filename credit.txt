@@ -1,2 +1,0 @@
-username=santhu
-password=san562
